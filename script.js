@@ -68,7 +68,7 @@ function loadDictionary() {
               <details> 
                 <summary> ${countries_to_visit[country].countryName}</summary> 
                 <p>Continente: ${countries_to_visit[country].continent}</p> 
-                <p>Idiomao ficial: ${countries_to_visit[country].language}</p> 
+                <p>Idioma Oficial: ${countries_to_visit[country].language}</p> 
                 <p>Principal atração turística: ${countries_to_visit[country].mainAttraction}</p> 
                 <p>${countries_to_visit[country].description}</p >
                 <p>${countries_to_visit[country].imageAlt}</p>
