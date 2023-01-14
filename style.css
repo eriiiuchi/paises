@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300,600,700,900);
 
 body {
-    background: pink;
+    background-color: purple;
     color: black;
     font-family: 'Source Sans Pro', sans-serif;
     text-rendering: optimizeLegibility;
